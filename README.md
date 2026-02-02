@@ -55,4 +55,11 @@ These projects simulate real-world business scenarios where data is used to:
 - Support decision-making  
 - Identify trends and opportunities  
 - Improve operational efficiency  
-- Provide actionable insights 
+- Provide actionable insights
+
+---
+
+## Key Insights & Learnings
+- Improved my ability to clean messy real-world data.
+- Gained experience writing SQL queries for business questions.
+- Learned how to communicate insights through dashboards.
